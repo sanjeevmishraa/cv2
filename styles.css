@@ -1,12 +1,39 @@
 
-  body {
-    background-color: #cbf1f5;
-  }
 
-  hr {
-    border-style: none;
-    border-top-style: dotted;
-    border-color: grey;
-    border-width: 2px;
-    width:5% ;
-  }
+
+body {
+  background-color: #cbf1f5;
+}
+h1 {
+  color: ff2e63;
+}
+h3 {
+    color: 08d9d6;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 2px;
+  width:5% ;
+}
+</style>
+<style media="screen">
+
+
+body {
+  background-color: #cbf1f5;
+}
+h1 {
+  color: #ff2e63;
+}
+h3 {
+    color: #08d9d6;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 2px;
+  width:5% ;
+}
